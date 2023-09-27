@@ -3,7 +3,6 @@
 I'm Arbind Yadav, a full-stack software engineer with expertise in Ruby, JavaScript, TypeScript, and Golang. I've had the pleasure of working with several technologies and tools such as React, Ruby on Rails, Heroku, AWS Services, and more across various development environments. 
 
 ### 📫 How to reach me
-- Email: yarbind98@gmail.com
 - LinkedIn [LinkedIn](https://www.linkedin.com/in/arbin-yadav/)
 
 ### ⚡ Fun fact
